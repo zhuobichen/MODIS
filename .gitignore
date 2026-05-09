@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data (large files)
+Data/
+!Data/Input/EFP/*.csv
+
+# Generated outputs
+Picture/
+
+# Database files
+*.db
+
+# IDE
+.vscode/
+.idea/
+
+# Conda env
+megan_efp/env/

@@ -1,0 +1,9 @@
+To run MEGAN v3.2 EFP
+
+1. install required packages by running:
+   `pip install -r requirements.txt`
+
+2. update user inputs in MEGAN_EFP.py
+
+3. run the tool by running command:
+   `python MEGAN_EFP.py`
