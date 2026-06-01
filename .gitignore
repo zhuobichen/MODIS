@@ -19,3 +19,7 @@ Picture/
 
 # Conda env
 megan_efp/env/
+env/
+.venv/
+venv/
+**/env/
