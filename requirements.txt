@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+matplotlib
+xarray
+netCDF4
+# pyhdf：读取 MODIS HDF 文件用；仅 Windows / 旧版 Python 有官方 wheel，安装见 README「数据准备」章节
+pyhdf
